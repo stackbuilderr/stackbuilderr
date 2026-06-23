@@ -1,6 +1,6 @@
 # 👋 Hi, I'm StackBuilderr
-
-🎯 Junior .NET Developer
+![Profile Views](https://komarev.com/ghpvc/?username=stackbuilderr&color=blue)
+🎯 .NET Backend Developer
 
 💻 Passionate about building backend systems, APIs and mobile applications with .NET technologies.
 
@@ -114,3 +114,7 @@ Authentication system built with ASP.NET Core.
 ---
 
 ⭐ Always learning, building and improving.
+
+---
+
+![Snake animation](https://github.com/stackbuilderr/stackbuilderr/blob/output/github-contribution-grid-snake.svg)
